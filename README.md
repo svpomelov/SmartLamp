@@ -1,6 +1,12 @@
 # Smart Lamp
 ![Lamp](https://i.ibb.co/pR0Z6W9/lamp.jpg)
 
+![Repository Top Language](https://img.shields.io/github/languages/top/SergeyPomelov/SmartLamp)
+![Languages](https://img.shields.io/github/languages/count/SergeyPomelov/SmartLamp)
+![Github Repository Size](https://img.shields.io/github/repo-size/SergeyPomelov/SmartLamp)
+![Github Open Issues](https://img.shields.io/github/issues/SergeyPomelov/SmartLamp)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 NodeMcu Based Smart Neopixels Array WiFi Lamp's Firmware.
 
 It's a loaded with modifications and a fixed fork of [gunner47](github.com/gunner47/gyverlamp) firmware for a [Smart Fire Lamp](https://alexgyver.ru/gyverlamp/) project.
